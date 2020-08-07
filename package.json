@@ -1,0 +1,26 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "Programming blog with gatsby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gatsby develop -p 9988 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pearpages/my-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pearpages/my-blog/issues"
+  },
+  "homepage": "https://github.com/pearpages/my-blog#readme",
+  "dependencies": {
+    "gatsby": "^2.24.34",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
