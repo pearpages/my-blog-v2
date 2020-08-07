@@ -22,5 +22,11 @@
     "gatsby": "^2.24.34",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@mdx-js/mdx": "^1.6.16",
+    "@mdx-js/react": "^1.6.16",
+    "gatsby-plugin-mdx": "^1.2.34",
+    "gatsby-source-filesystem": "^2.3.24"
   }
 }
