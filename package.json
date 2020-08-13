@@ -20,8 +20,11 @@
   "homepage": "https://github.com/pearpages/my-blog#readme",
   "dependencies": {
     "gatsby": "^2.24.34",
+    "prism-react-renderer": "^1.1.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-live": "^2.2.2",
+    "styled-components": "^5.1.1"
   },
   "devDependencies": {
     "@mdx-js/mdx": "^1.6.16",
