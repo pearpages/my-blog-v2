@@ -1,0 +1,51 @@
+# How-to "Footers" in HTML Print
+
+> flying-saucer-pdf
+
+* put the **footer** html at the beginning of the content if you want it to be in every page.
+* Use **tables** when you have to be very strict about layout
+
+```css
+footer {
+  position: running(footer-element);
+}
+
+@page {
+  size: A4 portrait;
+  margin-top:1.1cm;
+  margin-left:1.7cm;
+  margin-right:1.7cm;
+  margin-bottom:3.3cm; // this is the space you'll be able to use in the footer
+  @top-right {
+    content: element(top-element);
+  }
+  @bottom-left {
+    content: element(footer-element);
+  } 
+}
+```
+
+```html
+<body>
+  <footer>
+    <!-- if you put the footer before the content it will be able to place it in every @page @bottom-left; otherwise it will be from where it finds it. -->
+    <hr/> <hr/>
+    <table>
+      <colgroup>
+        <col width="75%"></col>
+        <col width="25%"></col>
+      </colgroup>
+      <tr>
+        <td  valign="top">Savings include item level discounts and order level vouchers. *Indicates HST point-of-sale rebate is applied to qualifying prepared food and beverages. §Delivery fee is taxable based on proportion of taxable items in the order. †Due to COVID-19, our delivery teammates will not accept bag returns for our bag recycling program, which means there will be no bag deposit or bag refund. Thank you for your understanding. Full terms and conditions available at voila.ca/content/terms-and-conditions.</td>
+        <td  valign="top">GST/HST: 895 588 788 &nbsp;&nbsp;&nbsp; Merchant ID: 376290510<br></br><br></br>Sobeys Capital Incorporated operating as Voilà<br></br>115 King Street, Stellarton, NS B0K 1S0</td>
+      </tr>
+    </table>
+  </footer>
+  <div class="sobeys">
+  </div>
+</body>
+```
+
+https://www.w3.org/TR/css-page-3/
+
+https://www.w3.org/TR/css-gcpm-3/#running-elements
