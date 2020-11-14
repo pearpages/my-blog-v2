@@ -11,7 +11,7 @@ module.exports = {
     navbar: {
       title: 'pages.ninja.com',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'pages.ninja.com logo',
         src: 'img/logo.svg',
       },
       items: [
