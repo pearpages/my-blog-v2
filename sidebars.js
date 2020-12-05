@@ -1,7 +1,5 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
     'External resources': [
       { type: 'link', label: 'Learn git Branching', href: 'https://learngitbranching.js.org/' },
       { type: 'link', label: 'Learn Storybook', href: 'https://www.learnstorybook.com/' },
@@ -23,6 +21,7 @@ module.exports = {
     ],
     'Origami': [
       { type: 'link', label: 'X-Wing Folding', href: 'https://www.union.ic.ac.uk/scc/icsf/history/picocon/picocon22/xwing/' },
-    ]
+    ],
+    Docusaurus: ['doc1', 'mdx']
   }
 };
