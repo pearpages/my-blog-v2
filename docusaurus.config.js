@@ -1,6 +1,6 @@
 module.exports = {
   title: 'pages.ninja',
-  tagline: 'The tagline of my site',
+  tagline: 'Programming and geek stuff blog',
   url: 'https://pages.ninja',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'my-blog', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'pages.ninja.com',
+      title: 'pages.ninja',
       logo: {
         alt: 'pages.ninja logo',
         src: 'img/logo.svg',
