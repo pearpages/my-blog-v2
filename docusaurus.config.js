@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'My Site',
+  title: 'pages.ninja',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://pages.ninja',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'pearpages', // Usually your GitHub org/user name.
+  projectName: 'my-blog', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'pages.ninja.com',
       logo: {
-        alt: 'pages.ninja.com logo',
+        alt: 'pages.ninja logo',
         src: 'img/logo.svg',
       },
       items: [
