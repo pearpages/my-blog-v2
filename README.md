@@ -1,4 +1,4 @@
-# Website
+# Website ![published](https://github.com/pearpages/my-blog/workflows/published/badge.svg)
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
