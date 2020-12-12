@@ -21,7 +21,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: '/', label: 'Blog', position: 'left'},
         // {
         //   href: 'https://github.com/facebook/docusaurus',
         //   label: 'GitHub',
@@ -62,10 +62,6 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
             },
@@ -87,6 +83,8 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
+          path: './blog',
+          routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
             'https://github.com/pearpages/my-blog/edit/master/'
