@@ -11,6 +11,9 @@ module.exports = {
       { type: 'link', label: 'Flow (static type checker)', href: 'https://flow.org/' },
       { type: 'link', label: 'Tern.js (stand-alone code-analysis engine)', href: 'https://ternjs.net/' },
       { type: 'link', label: 'repl.it (in-browser IDE)', href: 'https://repl.it/' },
+      { type: 'category', label: 'Visual Resources', collapsed: true, items: [
+        { type: 'link', label: 'flaticon', href: 'https://www.flaticon.com/free-icons/team' },
+      ]}
     ],
     'Functional JS': [
       { type: 'link', label: 'Rtype', href: 'https://github.com/ericelliott/rtype' },
