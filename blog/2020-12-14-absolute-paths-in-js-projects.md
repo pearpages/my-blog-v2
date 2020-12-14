@@ -19,11 +19,11 @@ tags: [js, webpack, vsc, npm]
 
 In the three scenarios we are replicating the logic concerning where to find the files.
 
-1. We need to bundler (**webpack**) _to know where to find the files_
+1. We need the bundler (**webpack**) _to know where to find the files_
 2. We need our testing framework (**jest**) _to know where to find the files_
 3. We need our IDE (**visual studio code**) _to know where to find the files_
 
-# 1. Webpack
+### 1. Webpack
 
 We need to tell webpack how to resolve our absolute paths.
 
@@ -59,7 +59,7 @@ module.exports = {
 }
 ```
 
-## 2. Jest
+### 2. Jest
 
 In the **package.json** file we can add a section for the **jest** module resolver.
 
@@ -107,7 +107,7 @@ In the **package.json** file we can add a section for the **jest** module resolv
   },
 ```
 
-## 3. Visual Studio Code
+### 3. Visual Studio Code
 
 We need to create a **jsconfig.json** that **visual studio code** will use for its _intellisense_.
 
