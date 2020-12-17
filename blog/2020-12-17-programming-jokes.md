@@ -15,9 +15,11 @@ tags: [jokes]
 - [Programming Jokes: Top 20 Funniest Jokes Only Programmers will get](https://www.thecoderpedia.com/blog/programming-jokes/)
 - [What's the best programming joke that you know?](https://www.reddit.com/r/AskReddit/comments/1kvhmz/whats_the_best_programming_joke_that_you_know/)
 
-![vpn joke](../static/blog/2020/12/17/vpn.jpg)
-
 ## Jokes
+
+### VPN
+
+![vpn joke](../static/blog/2020/12/17/vpn.jpg)
 
 ### Loops
 
