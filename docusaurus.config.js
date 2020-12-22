@@ -85,7 +85,7 @@ module.exports = {
           showReadingTime: true,
           path: './blog',
           routeBasePath: '/',
-          // Please change this to your repo.
+          blogSidebarCount: 'ALL',
           editUrl:
             'https://github.com/pearpages/my-blog/edit/master/'
         },
