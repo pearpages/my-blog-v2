@@ -17,6 +17,10 @@ module.exports = {
       { type: 'link', label: 'Multiple users in gitconfig', href: '/multiple-users-in-gitconfig' },
       { type: 'link', label: 'Learn git Branching', href: 'https://learngitbranching.js.org/' },
     ],
+    'DOM': [
+      { type: 'link', label: 'Document Object Model (DOM)', href: 'https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model' },
+      { type: 'link', label: 'DOM Living Standard — Last Updated 24 December 2020', href: 'https://dom.spec.whatwg.org/' },
+    ],
     'in-browser IDE': [
       { type: 'link', label: 'repl.it (in-browser IDE)', href: 'https://repl.it/' }
     ],
@@ -44,6 +48,11 @@ module.exports = {
     ],
     'Regex': [
       { type: 'link', label: 'regex101.com', href: 'https://regex101.com/' },
+    ],
+    'Standards': [
+      { type: 'link', label: 'Ecmascript/Javascript Drafts', href: 'https://tc39.es/ecma262/' },
+      { type: 'link', label: 'Ecmascript 262 Wiki Article', href: 'https://en.wikipedia.org/wiki/ECMAScript' },
+      { type: 'link', label: 'W3C Standards', href: 'https://www.w3.org/standards/' },
     ],
     'Storybook': [
       { type: 'link', label: 'Learn Storybook', href: 'https://www.learnstorybook.com/' },
