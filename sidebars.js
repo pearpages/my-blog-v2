@@ -50,8 +50,11 @@ module.exports = {
       { type: 'link', label: 'regex101.com', href: 'https://regex101.com/' },
     ],
     'Standards': [
-      { type: 'link', label: 'Ecmascript/Javascript Drafts', href: 'https://tc39.es/ecma262/' },
+      { type: 'link', label: 'Ecmascript 262/Javascript Drafts', href: 'https://tc39.es/ecma262/' },
       { type: 'link', label: 'Ecmascript 262 Wiki Article', href: 'https://en.wikipedia.org/wiki/ECMAScript' },
+      { type: 'link', label: 'Ecmascript post', href: '/ecmascript' },
+      { type: 'link', label: 'Ecmascript compatibility table', href: 'http://kangax.github.io/compat-table/es6/' },
+      { type: 'link', label: 'caniuse.com Browser support tables for modern web technologies', href: 'https://caniuse.com/' },
       { type: 'link', label: 'W3C Standards', href: 'https://www.w3.org/standards/' },
     ],
     'Storybook': [
