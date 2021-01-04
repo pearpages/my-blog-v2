@@ -1,31 +1,71 @@
 module.exports = {
   someSidebar: {
-    'External resources': [
-      { type: 'link', label: 'Learn git Branching', href: 'https://learngitbranching.js.org/' },
-      { type: 'link', label: 'Learn Storybook', href: 'https://www.learnstorybook.com/' },
-      { type: 'link', label: 'UML Class Diagram Tutorial', href: 'https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/' },
-      { type: 'link', label: 'Typescript', href: 'https://www.typescriptlang.org/play/' },
-      { type: 'link', label: 'TypeScript Pro tips/patterns', href: 'https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680' },
-      { type: 'link', label: 'Flow (static type checker)', href: 'https://flow.org/' },
-      { type: 'link', label: 'Tern.js (stand-alone code-analysis engine)', href: 'https://ternjs.net/' },
-      { type: 'link', label: 'repl.it (in-browser IDE)', href: 'https://repl.it/' }
+    'Coffee': [
+      { type: 'link', label: 'Flair espresso signature', href: '/flair-espresso-signature' },
     ],
+    Docusaurus: ['doc1', 'mdx',{ type: 'link', label: 'Deploy blog with Docusaurus', href: '/deploy-blog-with-docusaurus' }],
     'Functional JS': [
+      { type: 'link', label: 'Definitions', href: '/definitions' },
+      { type: 'link', label: 'Reduce usage examples', href: '/reduce' },
       { type: 'link', label: 'Rtype', href: 'https://github.com/ericelliott/rtype' },
       { type: 'link', label: 'Immutable.js', href: 'https://immutable-js.github.io/immutable-js/' },
       { type: 'link', label: 'Lodash', href: 'https://lodash.com/' },
       { type: 'link', label: 'Mori', href: 'https://swannodette.github.io/mori/' },
       { type: 'link', label: 'Ramda', href: 'https://ramdajs.com/' },
     ],
-    'Regex': [
-      { type: 'link', label: 'regex101.com', href: 'https://regex101.com/' },
+    'Git': [
+      { type: 'link', label: 'Multiple users in gitconfig', href: '/multiple-users-in-gitconfig' },
+      { type: 'link', label: 'Learn git Branching', href: 'https://learngitbranching.js.org/' },
     ],
-    'Visual Resources': [
-      { type: 'link', label: 'flaticon', href: 'https://www.flaticon.com/free-icons/team' },
+    'in-browser IDE': [
+      { type: 'link', label: 'repl.it (in-browser IDE)', href: 'https://repl.it/' }
+    ],
+    'Javascript': [
+      { type: 'link', label: 'All Javascript posts', href: '/tags/js'},
+      { type: 'link', label: 'Absolute paths in js projects', href: '/absolute-paths-in-js-projects'},
+      { type: 'link', label: 'The Builder pattern', href: '/the-builder-pattern'},
+      { type: 'link', label: 'Deep equality in js Objects', href: '/deep-equality-in-js-objects'},
+      { type: 'link', label: 'ES6 Object Destructuring Default Parameters', href: '/es6-object-destructuring-default-parameters' },
+      { type: 'link', label: 'How to remove array duplicates in ES6', href: '/how-to-remove-array-duplicates-in-es6' },
+      { type: 'link', label: 'Tern.js (stand-alone code-analysis engine)', href: 'https://ternjs.net/' },
+    ],
+    'Mac': [
+      { type: 'link', label: 'Change mac folder icons', href: '/change-mac-folder-icons' },
+    ],
+    'Markdown': [
+      { type: 'link', label: 'Resizing markdown images', href: '/resizing-markdown-images' },
+    ],
+    'Memes/Jokes': [
+      { type: 'link', label: 'My favorite Corgi meme', href: '/my-favorite-corgi-meme' },
+      { type: 'link', label: 'Programming Jokes', href: '/programming-jokes' },
     ],
     'Origami': [
       { type: 'link', label: 'X-Wing Folding', href: 'https://www.union.ic.ac.uk/scc/icsf/history/picocon/picocon22/xwing/' },
     ],
-    Docusaurus: ['doc1', 'mdx']
+    'Regex': [
+      { type: 'link', label: 'regex101.com', href: 'https://regex101.com/' },
+    ],
+    'Storybook': [
+      { type: 'link', label: 'Learn Storybook', href: 'https://www.learnstorybook.com/' },
+    ],
+    'Typing': [
+      { type: 'link', label: 'Typescript', href: 'https://www.typescriptlang.org/play/' },
+      { type: 'link', label: 'TypeScript Pro tips/patterns', href: 'https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680' },
+      { type: 'link', label: 'Flow (static type checker)', href: 'https://flow.org/' },
+    ],
+    'UML': [
+      { type: 'link', label: 'UML Class Diagram Tutorial', href: 'https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/' },
+    ],
+    'Visual Resources': [
+      { type: 'link', label: 'flaticon', href: 'https://www.flaticon.com/free-icons/team' },
+      { type: 'link', label: 'Favicons', href: '/favicons' },
+    ],
+    'Youtube Channels': [
+      { type: 'link', label: 'Romulo Cintra\'s youtube channel', href: '/romulo-cintra-youtube-channel' },
+    ],
+    'Yup': [
+      { type: 'link', label: 'Conditional validation with Yup and Formik', href: '/conditional-validation-with-yup-and-formik' },
+      { type: 'link', label: 'Yup validation with file type and size', href: '/yup-validation-with-file-type-and-size' },
+    ],
   }
 };
