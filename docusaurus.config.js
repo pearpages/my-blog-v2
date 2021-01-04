@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://pages.ninja',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'pearpages', // Usually your GitHub org/user name.
   projectName: 'my-blog', // Usually your repo name.
   themeConfig: {
@@ -68,7 +68,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `<div>Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.</div><div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>`,
     },
   },
   presets: [
