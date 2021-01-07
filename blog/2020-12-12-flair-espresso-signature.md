@@ -12,7 +12,7 @@ The espresso machine I want to try.
 
 > The Signature Series of the Flair Espresso Maker is a step up from the Classic in terms of styling, beauty, and aesthetics. Featuring either a brushed chrome, a matte black or our new white finish and our Signature copper-plated portafilter base, any Flair Signature will be the centerpiece of your kitchen or coffee station. Each Signature comes ready with a stainless steel screen, our Bottomless 2-in-1 Portafilter, and our custome pressure gauge, to produce the very best in espresso.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZV-tnx6BN8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZV-tnx6BN8" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ![flair espresso signature](../static/blog/2020/12/12/cafetera-Flair.webp)
 
