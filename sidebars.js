@@ -3,7 +3,10 @@ module.exports = {
     'Coffee': [
       { type: 'link', label: 'Flair espresso signature', href: '/flair-espresso-signature' },
     ],
-    Docusaurus: ['doc1', 'mdx',{ type: 'link', label: 'Deploy blog with Docusaurus', href: '/deploy-blog-with-docusaurus' }],
+    Docusaurus: ['doc1',
+      'mdx',
+      { type: 'link', label: 'Deploy blog with Docusaurus', href: '/deploy-blog-with-docusaurus' },
+      { type: 'link', label: 'Offline search for docusaurus', href: '/offline-search-for-docusaurus' }],
     'Functional JS': [
       { type: 'link', label: 'Definitions', href: '/definitions' },
       { type: 'link', label: 'Reduce usage examples', href: '/reduce' },
@@ -25,10 +28,10 @@ module.exports = {
       { type: 'link', label: 'repl.it (in-browser IDE)', href: 'https://repl.it/' }
     ],
     'Javascript': [
-      { type: 'link', label: 'All Javascript posts', href: '/tags/js'},
-      { type: 'link', label: 'Absolute paths in js projects', href: '/absolute-paths-in-js-projects'},
-      { type: 'link', label: 'The Builder pattern', href: '/the-builder-pattern'},
-      { type: 'link', label: 'Deep equality in js Objects', href: '/deep-equality-in-js-objects'},
+      { type: 'link', label: 'All Javascript posts', href: '/tags/js' },
+      { type: 'link', label: 'Absolute paths in js projects', href: '/absolute-paths-in-js-projects' },
+      { type: 'link', label: 'The Builder pattern', href: '/the-builder-pattern' },
+      { type: 'link', label: 'Deep equality in js Objects', href: '/deep-equality-in-js-objects' },
       { type: 'link', label: 'ES6 Object Destructuring Default Parameters', href: '/es6-object-destructuring-default-parameters' },
       { type: 'link', label: 'How to remove array duplicates in ES6', href: '/how-to-remove-array-duplicates-in-es6' },
       { type: 'link', label: 'Tern.js (stand-alone code-analysis engine)', href: 'https://ternjs.net/' },
