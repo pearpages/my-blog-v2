@@ -23,6 +23,7 @@ module.exports = {
     'Docker': [
       { type: 'link', label: '01 Introduction to Docker', href: '/introduction-to-docker' },
       { type: 'link', label: '02 Docker core concepts', href: '/docker-core-concepts' },
+      { type: 'link', label: '03 How to install docker', href: '/how-to-install-docker' },
     ],
     'DOM': [
       { type: 'link', label: 'Document Object Model (DOM)', href: 'https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model' },
