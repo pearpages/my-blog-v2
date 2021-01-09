@@ -21,7 +21,8 @@ module.exports = {
       { type: 'link', label: 'Learn git Branching', href: 'https://learngitbranching.js.org/' },
     ],
     'Docker': [
-      { type: 'link', label: 'Introduction to Docker', href: '/introduction-to-docker' },
+      { type: 'link', label: '01 Introduction to Docker', href: '/introduction-to-docker' },
+      { type: 'link', label: '02 Docker core concepts', href: '/docker-core-concepts' },
     ],
     'DOM': [
       { type: 'link', label: 'Document Object Model (DOM)', href: 'https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model' },
