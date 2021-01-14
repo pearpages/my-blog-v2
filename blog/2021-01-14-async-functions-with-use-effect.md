@@ -8,7 +8,17 @@ author_image_url: https://avatars2.githubusercontent.com/u/3802915?s=400&v=4
 tags: [react, async, useEffect]
 ---
 
+## Bear in mind
+
 > When we declare any function as **async**, it returns a **promise**
+
+```js
+async () => 3
+// the same as
+() => Promise.resolve(3)
+```
+
+## The issue in React
 
 > An **effect** function must not return anything besides a function, which is used for clean-up.
 
@@ -27,7 +37,7 @@ useEffect(async () => {
 3. Use an IIFE(Immediately Invoked Function Expression).
 
 
-### 3. Create a separate async function outside useEffect and call it from the useEffect:
+### 1. Create a separate async function outside useEffect and call it from the useEffect:
 
 ```js
 async function getUsers() {
