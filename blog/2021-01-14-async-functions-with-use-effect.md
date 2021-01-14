@@ -67,3 +67,4 @@ useEffect(() => {
 ## Resources
 
 - [Handle API calls using async await with the useEffect hook](https://medium.com/javascript-in-plain-english/handling-api-calls-using-async-await-in-useeffect-hook-990fb4ae423)
+- [How to use async function in React hooks useEffect (Typescript/JS)?](https://medium.com/javascript-in-plain-english/how-to-use-async-function-in-react-hook-useeffect-typescript-js-6204a788a435)
