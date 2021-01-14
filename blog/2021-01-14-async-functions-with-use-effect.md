@@ -36,7 +36,6 @@ useEffect(async () => {
 2. Create a separate async function **inside** useEffect and call it from useEffect.
 3. Use an IIFE(Immediately Invoked Function Expression).
 
-
 ### 1. Create a separate async function outside useEffect and call it from the useEffect:
 
 ```js
