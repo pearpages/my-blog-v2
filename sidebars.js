@@ -159,6 +159,9 @@ module.exports = {
           "https://www.union.ic.ac.uk/scc/icsf/history/picocon/picocon22/xwing/",
       },
     ],
+    React: [
+      { type: "link", label: "Async functions and useEffect", href: "/async-functions-with-use-effect" },
+    ],
     Regex: [
       { type: "link", label: "regex101.com", href: "https://regex101.com/" },
     ],
