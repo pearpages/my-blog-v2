@@ -177,12 +177,67 @@ console.log(Object.keys(geez)) // []
 console.log(Object.values(bar)) // ['a', 'b', function]
 ```
 
+### Keys
+
+The `Object.keys(object)`function can take all of the names of the own (but not inherited) properties in an _object_ and return them as an array of strings.
+
+The strings in the array will be in the order in which they were inserted.
+
 ## Delete
 
 The _delete_ operator can be used to remove a property from an object. It will remove a property from the object if it has one. It will not touch any of the objects in the prototype linkage.
 
 > see _delete_ example in the **prototype** section.
 
+## Inheritance
+
+In Javascript, an object can be made that inherits from another object `Object.create(prototype)`.
+
+When assigning to an object, only the top-most object is changed. No changes are made to objects on the prototype chain.
+
+The most popular use of prototypes is as a place to store functions.
+
+`Object.create(prototype)` inherits from the _prototype_ parameter object and the `Object.prototype`. But `Object.create(null)` does not inherit any thing. 
+
+`Object.assign(Object.create({}), prototype)` is preferable to `Object.create(prototype)`. It is all about how much you want to 'inherit'. `Object.create({})` does not inherit from `Object.prototype` but `{}` the Object literal does (check to __proto__ property).
+
+## toString
+
+If you want to convert an object into a string `JSON.stringify` does a much better job.
+
+```js
+JSON.stringify(myObj, null, 2)
+```
+
+## Copy
+
+```js
+const bar = {
+  a: 1,
+  b: 2
+}
+
+const foo = Object.assign({}, bar)
+```
+
+```js
+const bar = {
+  a: 1,
+  b: 2
+}
+
+const foo = {...bar}
+```
+
+## Freeze
+
+`Object.freeze(object)`. This is not a deep freeze. Only the top level object is frozen.
+
+## WeakMap
+
+Allows objects as keys.
+
 ## Resources
 
-- Javascript The Good Parts by Douglas Crockford
+- Javascript The Good Parts (2008) by Douglas Crockford
+- How Javascript Works (2018) by Douglas Crockford

@@ -128,6 +128,16 @@ module.exports = {
         label: "Tern.js (stand-alone code-analysis engine)",
         href: "https://ternjs.net/",
       },
+      {
+        type: "link",
+        label: "Objects",
+        href: "/js-objects",
+      },
+      {
+        type: "link",
+        label: "Functions",
+        href: "/js-functions",
+      },
     ],
     Mac: [
       {
