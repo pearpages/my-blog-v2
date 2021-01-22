@@ -92,6 +92,11 @@ module.exports = {
     "in-browser IDE": [
       {
         type: "link",
+        label: "Codesandbox.io",
+        href: "https://codesandbox.io/"
+      },
+      {
+        type: "link",
         label: "repl.it (in-browser IDE)",
         href: "https://repl.it/",
       },
@@ -151,6 +156,13 @@ module.exports = {
         type: "link",
         label: "Resizing markdown images",
         href: "/resizing-markdown-images",
+      },
+    ],
+    Maths: [
+      {
+        type: "link",
+        label: "Age Maths Problem",
+        href: "/age-maths-problem",
       },
     ],
     "Memes/Jokes": [
