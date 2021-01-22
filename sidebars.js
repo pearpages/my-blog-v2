@@ -171,6 +171,7 @@ module.exports = {
     ],
     React: [
       { type: "link", label: "Async functions and useEffect", href: "/async-functions-with-use-effect" },
+      { type: "link", label: "Testing a React component when unmounting with testing-library", href: "/testing-a-react-component-when-unmounting-with-testing-library" },
     ],
     Regex: [
       { type: "link", label: "regex101.com", href: "https://regex101.com/" },
