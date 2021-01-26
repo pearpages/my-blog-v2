@@ -237,6 +237,50 @@ const foo = {...bar}
 
 Allows objects as keys.
 
+## this
+
+In most cases, the value of **this** is determined by how a function is called (runtime binding).
+
+### Example with methods
+
+```js
+const myObj = {
+  store: 0,
+  increase: function () {
+    this.store = this.store + 1;
+  },
+  decrease: function () {
+    this.store = this.store - 1;
+  }
+};
+
+console.log(myObj.store); // 0
+myObj.increase();
+myObj.increase();
+myObj.increase();
+myObj.increase();
+console.log(myObj.store); // 4
+myObj.decrease();
+myObj.decrease();
+console.log(myObj.store); // 2
+```
+
+### Trying to access this before execution time
+
+```js
+const thisExample = {
+  firstName: "Pere",
+  lastName: "Pages",
+  completeName: this.firstName + " " + this.lastName, // not going to work. this can't resolve yet
+  getCompleteName: function () {
+    return this.firstName + " " + this.lastName; // it's going to work, because it will bind at execution time
+  }
+};
+
+console.log(thisExample.completeName); // undefined undefined
+console.log(thisExample.getCompleteName()); // 'Pere Pages'
+```
+
 ## Resources
 
 - Javascript The Good Parts (2008) by Douglas Crockford
