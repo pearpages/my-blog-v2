@@ -13,18 +13,17 @@ tags: [maths]
 - **z**: Years between you and me
 
 ```
+# I am three times older than the age you had when I had your current age.
 x = 3 (y-z)
 ```
 
-When you will be my age, at that moment, both we will be 77 years old
-
 ```
+# When you will be my cyrrent age both will be 77 years old
 (x+z) + (y+z) = 77
 ```
 
-I am your age plus the difference between us
-
 ```
+# I am your age plus the difference between us (because I am older)
 x = y + z
 ```
 
