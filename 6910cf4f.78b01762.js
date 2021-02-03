@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[56],{112:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"use-effect","name":"useeffect","count":1,"permalink":"/tags/use-effect"}')}}]);
