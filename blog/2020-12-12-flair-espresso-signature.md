@@ -14,7 +14,7 @@ The espresso machine I want to try.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kZV-tnx6BN8" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-![flair espresso signature](../static/blog/2020/12/12/cafetera-Flair.webp)
+![flair espresso signature](./2020/12/12/cafetera-Flair.webp)
 
 - [Official Page](https://flairespresso.com/product/the-flair-signature/)
 - [Flair Espresso Signature in BeanGreen](https://bean-green.com/cafetera/cafetera-flair-espresso-signature/)

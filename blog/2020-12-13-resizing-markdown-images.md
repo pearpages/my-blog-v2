@@ -13,9 +13,9 @@ After many attempts I have come to the conclusion that the best way is doing thr
 In the example I am using ```thumb``` and ```thumb autor``` to style the images.
 
 ```markdown
-![thumb Javascript for Kids](../static/blog/2020/12/13/javascsript-for-kids.jpg)
+![thumb Javascript for Kids](./2020/12/13/javascsript-for-kids.jpg)
 &nbsp;
-![thumb autor Nick Morgan](../static/blog/2020/12/13/nick-morgan.png)
+![thumb autor Nick Morgan](./2020/12/13/nick-morgan.png)
 ```
 
 And that is what we write in the .css

@@ -19,7 +19,7 @@ tags: [jokes]
 
 ### VPN
 
-![vpn joke](../static/blog/2020/12/17/vpn.jpg)
+![vpn joke](./2020/12/17/vpn.jpg)
 
 ### Loops
 
@@ -160,4 +160,4 @@ Among the ensuing forest of raised hands only one man sat motionless. When asked
 
 ### Demos
 
-![Demo](../static/blog/2020/12/17/demo.jpg)
+![Demo](./2020/12/17/demo.jpg)
