@@ -43,6 +43,7 @@ const Git = [
     label: "Multiple users in gitconfig",
     type: "link",
   },
+  "git/resources"
 ];
 
 const Docker = [
@@ -288,6 +289,14 @@ const VisualResources = [
   },
 ]
 
+const VisualStudioCode = [
+  {
+    href: "/snippets-in-visual-studio-code",
+    label: "Code snippets",
+    type: "link",
+  },
+]
+
 const YoutubeChannels = [
   {
     href: "/romulo-cintra-youtube-channel",
@@ -332,6 +341,7 @@ module.exports = {
     Typing,
     UML,
     "Visual Resources": VisualResources,
+    "Visual Studio Code": VisualStudioCode,
     "Youtube Channels": YoutubeChannels,
     Yup,
   },
