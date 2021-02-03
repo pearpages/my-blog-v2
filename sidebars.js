@@ -8,6 +8,14 @@ const Coffee = [
   },
 ];
 
+const CSS = [
+  {
+    href: "/css-books",
+    label: "CSS Books",
+    type: "link"
+  }
+]
+
 const Docusaurus = [
   "doc1",
   "mdx",
@@ -320,6 +328,7 @@ const Yup = [
 
 module.exports = {
   someSidebar: {
+    CSS,
     Coffee,
     DOM,
     Docker,
