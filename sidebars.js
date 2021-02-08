@@ -325,6 +325,14 @@ const Yup = [
   },
 ]
 
+const E2Etesting = [
+  {
+    href: "https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell",
+    label: "Cypress Docs",
+    type: "link",
+  },
+]
+
 module.exports = {
   someSidebar: {
     CSS,
@@ -332,6 +340,7 @@ module.exports = {
     DOM,
     Docker,
     Docusaurus,
+    "E2E Testing": E2Etesting,
     "Functional JS": Functional_JS,
     Git,
     "In browser IDE": inBrowser_IDE,
