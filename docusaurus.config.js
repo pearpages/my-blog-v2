@@ -8,6 +8,7 @@ module.exports = {
   organizationName: 'pearpages', // Usually your GitHub org/user name.
   projectName: 'my-blog', // Usually your repo name.
   themeConfig: {
+    hideableSidebar: true,
     navbar: {
       title: 'pages.ninja',
       logo: {
@@ -68,7 +69,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `<div>v1.0.0 Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.</div><div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>`,
+      copyright: `<div>v1.1.0 Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.</div><div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>`,
     },
   },
   presets: [
