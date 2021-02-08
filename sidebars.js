@@ -17,8 +17,7 @@ const CSS = [
 ]
 
 const Docusaurus = [
-  "doc1",
-  "mdx",
+  "docusaurus/styleguide",
   {
     href: "/deploy-blog-with-docusaurus",
     label: "Deploy blog with Docusaurus",
@@ -337,6 +336,7 @@ module.exports = {
     Git,
     "In browser IDE": inBrowser_IDE,
     Javascript,
+    "Learning Sites": ["learning-sites/resources"],
     Mac,
     Markdown,
     Maths,
@@ -351,6 +351,11 @@ module.exports = {
     UML,
     "Visual Resources": VisualResources,
     "Visual Studio Code": VisualStudioCode,
+    Weather: [{
+      href: "https://en.meteocat.gencat.cat/radar",
+      label: "Radar Servei Meteorològic de Catalunya",
+      type: "link",
+    }],
     "Youtube Channels": YoutubeChannels,
     Yup,
   },

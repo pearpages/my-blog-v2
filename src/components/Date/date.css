@@ -1,0 +1,13 @@
+.MyDate {
+  padding: 4px 0;
+  border-bottom: 1px dotted #ccc;
+  margin-bottom: 20px;
+}
+.MyDate img {
+  height: 20px;
+}
+.MyDate span {
+  float: right;
+  font-size: 12px;
+  font-weight: bold;
+}

@@ -18,7 +18,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Resources',
           position: 'left',
         },
         // {to: '/', label: 'Blog', position: 'left'},
@@ -68,7 +68,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `<div>Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.</div><div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>`,
+      copyright: `<div>v1.0.0 Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.</div><div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>`,
     },
   },
   presets: [
