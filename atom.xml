@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pages.ninja/</id>
+    <title>pages.ninja Blog</title>
+    <updated>2021-02-03T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pages.ninja/"/>
+    <subtitle>pages.ninja Blog</subtitle>
+    <icon>https://pages.ninja/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CSS Books]]></title>
+        <id>css-books</id>
+        <link href="https://pages.ninja/css-books"/>
+        <updated>2021-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SVG Animations: From Common UX Implementations to Complex Responsive Animation by Sarah Drasner (2017)]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snippets in Visual Studio Code]]></title>
+        <id>snippets-in-visual-studio-code</id>
+        <link href="https://pages.ninja/snippets-in-visual-studio-code"/>
+        <updated>2021-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Code snippets are templates that make it easier to enter repeating code patterns, such as loops or conditional-statements.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React testing-libary example]]></title>
+        <id>react-testing-library-example</id>
+        <link href="https://pages.ninja/react-testing-library-example"/>
+        <updated>2021-01-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am omitting the component because I want to focus in the test itself.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Age Maths problem]]></title>
+        <id>age-maths-problem</id>
+        <link href="https://pages.ninja/age-maths-problem"/>
+        <updated>2021-01-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- x: My current age]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing a React component when unmounting with testing-library]]></title>
+        <id>testing-a-react-component-when-unmounting-with-testing-library</id>
+        <link href="https://pages.ninja/testing-a-react-component-when-unmounting-with-testing-library"/>
+        <updated>2021-01-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Component]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javascript Functions]]></title>
+        <id>js-functions</id>
+        <link href="https://pages.ninja/js-functions"/>
+        <updated>2021-01-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A function encloses a set of statements.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javascript Objects]]></title>
+        <id>js-objects</id>
+        <link href="https://pages.ninja/js-objects"/>
+        <updated>2021-01-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Objects in Javascript are mutable keyed collections.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async functions and useEffect]]></title>
+        <id>async-functions-with-use-effect</id>
+        <link href="https://pages.ninja/async-functions-with-use-effect"/>
+        <updated>2021-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bear in mind]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL database with Docker]]></title>
+        <id>mysql-with-docker</id>
+        <link href="https://pages.ninja/mysql-with-docker"/>
+        <updated>2021-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Installing an image]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker core concepts]]></title>
+        <id>docker-core-concepts</id>
+        <link href="https://pages.ninja/docker-core-concepts"/>
+        <updated>2021-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to install docker]]></title>
+        <id>how-to-install-docker</id>
+        <link href="https://pages.ninja/how-to-install-docker"/>
+        <updated>2021-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Install Docker on macOS]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Docker]]></title>
+        <id>introduction-to-docker</id>
+        <link href="https://pages.ninja/introduction-to-docker"/>
+        <updated>2021-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rather than installing dependencies on your PC, you run them in lightweight isolated VM-like environments known as containers.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offline search for docusaurus]]></title>
+        <id>offline-search-for-docusaurus</id>
+        <link href="https://pages.ninja/offline-search-for-docusaurus"/>
+        <updated>2021-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have been impressed for the ease of use of this plugin. Offline Search for Docusaurus V2.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ecmascript]]></title>
+        <id>ecmascript</id>
+        <link href="https://pages.ninja/ecmascript"/>
+        <updated>2021-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ECMA-262 This is a standard published by Ecma International. It contains the specification for a general purpose scripting language.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favicons]]></title>
+        <id>favicons</id>
+        <link href="https://pages.ninja/favicons"/>
+        <updated>2021-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[sizes (px)]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ES6 Object Destructuring Default Parameters]]></title>
+        <id>es6-object-destructuring-default-parameters</id>
+        <link href="https://pages.ninja/es6-object-destructuring-default-parameters"/>
+        <updated>2020-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`js]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My favorite Corgi meme]]></title>
+        <id>my-favorite-corgi-meme</id>
+        <link href="https://pages.ninja/my-favorite-corgi-meme"/>
+        <updated>2020-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The owner thought this Corgi puppy was bad injured, but he had been eating a lot of jam.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming Jokes]]></title>
+        <id>programming-jokes</id>
+        <link href="https://pages.ninja/programming-jokes"/>
+        <updated>2020-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Resources]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Absolute paths in js projects]]></title>
+        <id>absolute-paths-in-js-projects</id>
+        <link href="https://pages.ninja/absolute-paths-in-js-projects"/>
+        <updated>2020-12-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Resources]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javascript influential books]]></title>
+        <id>js-influential-books</id>
+        <link href="https://pages.ninja/js-influential-books"/>
+        <updated>2020-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Resources]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resizing markdown images]]></title>
+        <id>resizing-markdown-images</id>
+        <link href="https://pages.ninja/resizing-markdown-images"/>
+        <updated>2020-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After many attempts I have come to the conclusion that the best way is doing through css. And the cleanest way is to use the `alt` attribute.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flair Espresso Signature]]></title>
+        <id>flair-espresso-signature</id>
+        <link href="https://pages.ninja/flair-espresso-signature"/>
+        <updated>2020-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The espresso machine I want to try.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple users in gitconfig]]></title>
+        <id>multiple-users-in-gitconfig</id>
+        <link href="https://pages.ninja/multiple-users-in-gitconfig"/>
+        <updated>2020-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Can I specify multiple users for myself in .gitconfig?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to remove array duplicates in ES6]]></title>
+        <id>how-to-remove-array-duplicates-in-es6</id>
+        <link href="https://pages.ninja/how-to-remove-array-duplicates-in-es6"/>
+        <updated>2020-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- How to Remove Array Duplicates in ES6]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Builder pattern]]></title>
+        <id>the-builder-pattern</id>
+        <link href="https://pages.ninja/the-builder-pattern"/>
+        <updated>2020-12-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The issue]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy blog with Docusaurus]]></title>
+        <id>deploy-blog-with-docusaurus</id>
+        <link href="https://pages.ninja/deploy-blog-with-docusaurus"/>
+        <updated>2020-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Resources]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change mac folder icons]]></title>
+        <id>change-mac-folder-icons</id>
+        <link href="https://pages.ninja/change-mac-folder-icons"/>
+        <updated>2020-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Basically, copy the contents of an image and paste it in the icon of the folder description (get info)]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conditional validation with Yup and Formik]]></title>
+        <id>conditional-validation-with-yup-and-formik</id>
+        <link href="https://pages.ninja/conditional-validation-with-yup-and-formik"/>
+        <updated>2020-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://stackoverflow.com/questions/54919228/conditional-validation-with-yup-and-formik]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep equality in js Objects]]></title>
+        <id>deep-equality-in-js-objects</id>
+        <link href="https://pages.ninja/deep-equality-in-js-objects"/>
+        <updated>2020-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Compare Objects in JavaScript]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Romulo Cintra's youtube channel]]></title>
+        <id>romulo-cintra-youtube-channel</id>
+        <link href="https://pages.ninja/romulo-cintra-youtube-channel"/>
+        <updated>2020-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am very happy to have the chance to follow this youtube channel from my good friend Romulo Cintra.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yup validation with file type and size]]></title>
+        <id>yup-validation-with-file-type-and-size</id>
+        <link href="https://pages.ninja/yup-validation-with-file-type-and-size"/>
+        <updated>2020-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Resources]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Programming Useful Definitions]]></title>
+        <id>definitions</id>
+        <link href="https://pages.ninja/definitions"/>
+        <updated>2020-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Closures A closure is the bundling of a function with its lexical environment. Closures are created at runtime during function creation time. Closures are how partial applications get their fixed arguments.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduce Usage Examples]]></title>
+        <id>reduce</id>
+        <link href="https://pages.ninja/reduce"/>
+        <updated>2020-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Map]]></summary>
+    </entry>
+</feed>

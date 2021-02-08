@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>pages.ninja Blog</title>
+        <link>https://pages.ninja/</link>
+        <description>pages.ninja Blog</description>
+        <lastBuildDate>Wed, 03 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CSS Books]]></title>
+            <link>https://pages.ninja/css-books</link>
+            <guid>css-books</guid>
+            <pubDate>Wed, 03 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[SVG Animations: From Common UX Implementations to Complex Responsive Animation by Sarah Drasner (2017)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Snippets in Visual Studio Code]]></title>
+            <link>https://pages.ninja/snippets-in-visual-studio-code</link>
+            <guid>snippets-in-visual-studio-code</guid>
+            <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Code snippets are templates that make it easier to enter repeating code patterns, such as loops or conditional-statements.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[React testing-libary example]]></title>
+            <link>https://pages.ninja/react-testing-library-example</link>
+            <guid>react-testing-library-example</guid>
+            <pubDate>Wed, 27 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I am omitting the component because I want to focus in the test itself.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Age Maths problem]]></title>
+            <link>https://pages.ninja/age-maths-problem</link>
+            <guid>age-maths-problem</guid>
+            <pubDate>Fri, 22 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[- x: My current age]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Testing a React component when unmounting with testing-library]]></title>
+            <link>https://pages.ninja/testing-a-react-component-when-unmounting-with-testing-library</link>
+            <guid>testing-a-react-component-when-unmounting-with-testing-library</guid>
+            <pubDate>Fri, 22 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Component]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Javascript Functions]]></title>
+            <link>https://pages.ninja/js-functions</link>
+            <guid>js-functions</guid>
+            <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[A function encloses a set of statements.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Javascript Objects]]></title>
+            <link>https://pages.ninja/js-objects</link>
+            <guid>js-objects</guid>
+            <pubDate>Sat, 16 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Objects in Javascript are mutable keyed collections.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Async functions and useEffect]]></title>
+            <link>https://pages.ninja/async-functions-with-use-effect</link>
+            <guid>async-functions-with-use-effect</guid>
+            <pubDate>Thu, 14 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bear in mind]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MySQL database with Docker]]></title>
+            <link>https://pages.ninja/mysql-with-docker</link>
+            <guid>mysql-with-docker</guid>
+            <pubDate>Sun, 10 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Installing an image]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Docker core concepts]]></title>
+            <link>https://pages.ninja/docker-core-concepts</link>
+            <guid>docker-core-concepts</guid>
+            <pubDate>Sat, 09 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[TL;DR]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to install docker]]></title>
+            <link>https://pages.ninja/how-to-install-docker</link>
+            <guid>how-to-install-docker</guid>
+            <pubDate>Sat, 09 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Install Docker on macOS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Docker]]></title>
+            <link>https://pages.ninja/introduction-to-docker</link>
+            <guid>introduction-to-docker</guid>
+            <pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rather than installing dependencies on your PC, you run them in lightweight isolated VM-like environments known as containers.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Offline search for docusaurus]]></title>
+            <link>https://pages.ninja/offline-search-for-docusaurus</link>
+            <guid>offline-search-for-docusaurus</guid>
+            <pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I have been impressed for the ease of use of this plugin. Offline Search for Docusaurus V2.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ecmascript]]></title>
+            <link>https://pages.ninja/ecmascript</link>
+            <guid>ecmascript</guid>
+            <pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[ECMA-262 This is a standard published by Ecma International. It contains the specification for a general purpose scripting language.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Favicons]]></title>
+            <link>https://pages.ninja/favicons</link>
+            <guid>favicons</guid>
+            <pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[sizes (px)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ES6 Object Destructuring Default Parameters]]></title>
+            <link>https://pages.ninja/es6-object-destructuring-default-parameters</link>
+            <guid>es6-object-destructuring-default-parameters</guid>
+            <pubDate>Wed, 23 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[`js]]></description>
+        </item>
+        <item>
+            <title><![CDATA[My favorite Corgi meme]]></title>
+            <link>https://pages.ninja/my-favorite-corgi-meme</link>
+            <guid>my-favorite-corgi-meme</guid>
+            <pubDate>Tue, 22 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[The owner thought this Corgi puppy was bad injured, but he had been eating a lot of jam.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Programming Jokes]]></title>
+            <link>https://pages.ninja/programming-jokes</link>
+            <guid>programming-jokes</guid>
+            <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Resources]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Absolute paths in js projects]]></title>
+            <link>https://pages.ninja/absolute-paths-in-js-projects</link>
+            <guid>absolute-paths-in-js-projects</guid>
+            <pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Resources]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Javascript influential books]]></title>
+            <link>https://pages.ninja/js-influential-books</link>
+            <guid>js-influential-books</guid>
+            <pubDate>Sun, 13 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Resources]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Resizing markdown images]]></title>
+            <link>https://pages.ninja/resizing-markdown-images</link>
+            <guid>resizing-markdown-images</guid>
+            <pubDate>Sun, 13 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[After many attempts I have come to the conclusion that the best way is doing through css. And the cleanest way is to use the `alt` attribute.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Flair Espresso Signature]]></title>
+            <link>https://pages.ninja/flair-espresso-signature</link>
+            <guid>flair-espresso-signature</guid>
+            <pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[The espresso machine I want to try.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Multiple users in gitconfig]]></title>
+            <link>https://pages.ninja/multiple-users-in-gitconfig</link>
+            <guid>multiple-users-in-gitconfig</guid>
+            <pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[[Can I specify multiple users for myself in .gitconfig?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to remove array duplicates in ES6]]></title>
+            <link>https://pages.ninja/how-to-remove-array-duplicates-in-es6</link>
+            <guid>how-to-remove-array-duplicates-in-es6</guid>
+            <pubDate>Fri, 11 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[- How to Remove Array Duplicates in ES6]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Builder pattern]]></title>
+            <link>https://pages.ninja/the-builder-pattern</link>
+            <guid>the-builder-pattern</guid>
+            <pubDate>Thu, 10 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[The issue]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Deploy blog with Docusaurus]]></title>
+            <link>https://pages.ninja/deploy-blog-with-docusaurus</link>
+            <guid>deploy-blog-with-docusaurus</guid>
+            <pubDate>Wed, 09 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Resources]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Change mac folder icons]]></title>
+            <link>https://pages.ninja/change-mac-folder-icons</link>
+            <guid>change-mac-folder-icons</guid>
+            <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Basically, copy the contents of an image and paste it in the icon of the folder description (get info)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Conditional validation with Yup and Formik]]></title>
+            <link>https://pages.ninja/conditional-validation-with-yup-and-formik</link>
+            <guid>conditional-validation-with-yup-and-formik</guid>
+            <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[https://stackoverflow.com/questions/54919228/conditional-validation-with-yup-and-formik]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Deep equality in js Objects]]></title>
+            <link>https://pages.ninja/deep-equality-in-js-objects</link>
+            <guid>deep-equality-in-js-objects</guid>
+            <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to Compare Objects in JavaScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Romulo Cintra's youtube channel]]></title>
+            <link>https://pages.ninja/romulo-cintra-youtube-channel</link>
+            <guid>romulo-cintra-youtube-channel</guid>
+            <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[I am very happy to have the chance to follow this youtube channel from my good friend Romulo Cintra.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Yup validation with file type and size]]></title>
+            <link>https://pages.ninja/yup-validation-with-file-type-and-size</link>
+            <guid>yup-validation-with-file-type-and-size</guid>
+            <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Resources]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Functional Programming Useful Definitions]]></title>
+            <link>https://pages.ninja/definitions</link>
+            <guid>definitions</guid>
+            <pubDate>Sat, 14 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Closures A closure is the bundling of a function with its lexical environment. Closures are created at runtime during function creation time. Closures are how partial applications get their fixed arguments.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Reduce Usage Examples]]></title>
+            <link>https://pages.ninja/reduce</link>
+            <guid>reduce</guid>
+            <pubDate>Sat, 14 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Map]]></description>
+        </item>
+    </channel>
+</rss>
