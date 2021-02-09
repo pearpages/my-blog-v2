@@ -16,7 +16,7 @@ Two editions are available: **stable** and **edge** with experimental features. 
 
 Double-click ```Docker.dmg``` to open the installer.
 
-![status bar](./2021/01/09/status-bar.png)
+![status bar](./2021-01-09-how-to-install-docker/status-bar.png)
 
 ## Test your Docker installation
 
