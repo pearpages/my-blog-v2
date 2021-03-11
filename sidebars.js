@@ -153,6 +153,11 @@ const inBrowser_IDE = [
     type: "link",
   },
   {
+    href: "https://codepen.io/",
+    label: "Codepen",
+    type: "link"
+  },
+  {
     href: "https://repl.it/",
     label: "repl.it (in-browser IDE)",
     type: "link",
@@ -196,7 +201,7 @@ const MemesJokes = [
   },
 ]
 
-const Origami =  [
+const Origami = [
   {
     href: "https://www.union.ic.ac.uk/scc/icsf/history/picocon/picocon22/xwing/",
     label: "X-Wing Folding",
