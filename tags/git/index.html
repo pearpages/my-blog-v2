@@ -7,19 +7,19 @@
 <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="pages.ninja Blog RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="pages.ninja Blog Atom Feed"><title data-react-helmet="true">Posts tagged &quot;git&quot; | pages.ninja</title><meta data-react-helmet="true" property="og:title" content="Posts tagged &quot;git&quot; | pages.ninja"><meta data-react-helmet="true" name="description" content="Blog | Tagged &quot;git&quot;"><meta data-react-helmet="true" property="og:description" content="Blog | Tagged &quot;git&quot;"><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"><meta data-react-helmet="true" name="docusaurus_locale" content="en"><meta data-react-helmet="true" name="docusaurus_tag" content="default"><link data-react-helmet="true" rel="shortcut icon" href="/img/favicon.png"><link rel="stylesheet" href="/styles.5160f046.css">
 <link rel="preload" href="/styles.602a4d29.js" as="script">
-<link rel="preload" href="/runtime~main.672204d5.js" as="script">
-<link rel="preload" href="/main.42678c04.js" as="script">
-<link rel="preload" href="/1.288d30f4.js" as="script">
-<link rel="preload" href="/2.fe4e0642.js" as="script">
-<link rel="preload" href="/3.8062779a.js" as="script">
-<link rel="preload" href="/01a85c17.555da80d.js" as="script">
-<link rel="preload" href="/1be78505.e370610b.js" as="script">
-<link rel="preload" href="/6875c492.fdb13dc6.js" as="script">
-<link rel="preload" href="/a6aa9e1f.e870be19.js" as="script">
-<link rel="preload" href="/ccc49370.53ea2185.js" as="script">
-<link rel="preload" href="/134.f7985f8e.js" as="script">
+<link rel="preload" href="/runtime~main.1da240af.js" as="script">
+<link rel="preload" href="/main.83d94401.js" as="script">
+<link rel="preload" href="/1.c22455e3.js" as="script">
+<link rel="preload" href="/2.966c6dff.js" as="script">
+<link rel="preload" href="/3.1fe90142.js" as="script">
+<link rel="preload" href="/01a85c17.5023d504.js" as="script">
+<link rel="preload" href="/1be78505.bd3f6238.js" as="script">
+<link rel="preload" href="/6875c492.aca42274.js" as="script">
+<link rel="preload" href="/a6aa9e1f.2d43bc4a.js" as="script">
+<link rel="preload" href="/ccc49370.fb243b29.js" as="script">
+<link rel="preload" href="/135.b4d0c57a.js" as="script">
 <link rel="preload" href="/45b7c9ef.3f9e893b.js" as="script">
-<link rel="preload" href="/775d7f13.a030af75.js" as="script">
+<link rel="preload" href="/775d7f13.02fac436.js" as="script">
 <link rel="preload" href="/4fbdb8ff.269df24b.js" as="script">
 </head>
 <body>
@@ -28,19 +28,19 @@
 </a></p><ol><li>Configure an individual repo which overrides the global configuration</li><li>Use conditional includes</li></ol><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_prK2" id="1-configure-an-individual-repo-which-overrides-the-global-configuration"></a>1. Configure an individual repo which overrides the global configuration<a class="hash-link" href="#1-configure-an-individual-repo-which-overrides-the-global-configuration" title="Direct link to heading">#</a></h2><div class="mdxCodeBlock_1zKU"><div class="codeBlockContent_actS"><div tabindex="0" class="prism-code language-undefined codeBlock_tuNs thin-scrollbar"><div class="codeBlockLines_3uvA" style="color:#bfc7d5;background-color:#292d3e"><div class="token-line" style="color:#bfc7d5"><span class="token plain">git config user.name &quot;Your Name Here&quot;</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">git config user.email your@email.com</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_2GIj">Copy</button></div></div><p>Whereas the default user/email is configured in your <code>~/.gitconfig</code></p><div class="mdxCodeBlock_1zKU"><div class="codeBlockContent_actS"><div tabindex="0" class="prism-code language-undefined codeBlock_tuNs thin-scrollbar"><div class="codeBlockLines_3uvA" style="color:#bfc7d5;background-color:#292d3e"><div class="token-line" style="color:#bfc7d5"><span class="token plain">git config --global user.name &quot;Your Name Here&quot;</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">git config --global user.email your@email.com</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_2GIj">Copy</button></div></div><h2><a aria-hidden="true" tabindex="-1" class="anchor enhancedAnchor_prK2" id="2-use-conditional-includes"></a>2. Use conditional includes<a class="hash-link" href="#2-use-conditional-includes" title="Direct link to heading">#</a></h2><p>In the global config <code>~/.gitconfig</code></p><div class="mdxCodeBlock_1zKU"><div class="codeBlockContent_actS"><div tabindex="0" class="prism-code language-undefined codeBlock_tuNs thin-scrollbar"><div class="codeBlockLines_3uvA" style="color:#bfc7d5;background-color:#292d3e"><div class="token-line" style="color:#bfc7d5"><span class="token plain">[user]</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">    name = John Doe</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">    email = john@doe.tld</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block">
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">[includeIf &quot;gitdir:~/work/&quot;]</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">    path = ~/work/.gitconfig</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_2GIj">Copy</button></div></div><p>Work specific config <code>~/work/.gitconfig</code></p><div class="mdxCodeBlock_1zKU"><div class="codeBlockContent_actS"><div tabindex="0" class="prism-code language-undefined codeBlock_tuNs thin-scrollbar"><div class="codeBlockLines_3uvA" style="color:#bfc7d5;background-color:#292d3e"><div class="token-line" style="color:#bfc7d5"><span class="token plain">[user]</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">    email = john.doe@company.tld</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_2GIj">Copy</button></div></div></section><footer class="row margin-vert--lg"><div class="col"><strong>Tags:</strong><a class="margin-horiz--sm" href="/tags/git">git</a></div><div class="col text--right"><a aria-label="Read more about Multiple users in gitconfig" href="/multiple-users-in-gitconfig"><strong>Read More</strong></a></div></footer></article></div></main></div></div></div><footer class="footer footer--dark"><div class="container"><div class="row footer__links"><div class="col footer__col"><h4 class="footer__title">Docs</h4><ul class="footer__items"><li class="footer__item"><a class="footer__link-item" href="/docs/">Style Guide</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">Community</h4><ul class="footer__items"><li class="footer__item"><a href="https://stackoverflow.com/questions/tagged/docusaurus" target="_blank" rel="noopener noreferrer" class="footer__link-item">Stack Overflow</a></li><li class="footer__item"><a href="https://discordapp.com/invite/docusaurus" target="_blank" rel="noopener noreferrer" class="footer__link-item">Discord</a></li><li class="footer__item"><a href="https://twitter.com/docusaurus" target="_blank" rel="noopener noreferrer" class="footer__link-item">Twitter</a></li></ul></div><div class="col footer__col"><h4 class="footer__title">More</h4><ul class="footer__items"><li class="footer__item"><a href="https://github.com/facebook/docusaurus" target="_blank" rel="noopener noreferrer" class="footer__link-item">GitHub</a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright"><div>v1.1.0 Copyright © 2021 My Project, Inc. Built with Docusaurus.</div><div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></div></div></div></footer></div>
 <script src="/styles.602a4d29.js"></script>
-<script src="/runtime~main.672204d5.js"></script>
-<script src="/main.42678c04.js"></script>
-<script src="/1.288d30f4.js"></script>
-<script src="/2.fe4e0642.js"></script>
-<script src="/3.8062779a.js"></script>
-<script src="/01a85c17.555da80d.js"></script>
-<script src="/1be78505.e370610b.js"></script>
-<script src="/6875c492.fdb13dc6.js"></script>
-<script src="/a6aa9e1f.e870be19.js"></script>
-<script src="/ccc49370.53ea2185.js"></script>
-<script src="/134.f7985f8e.js"></script>
+<script src="/runtime~main.1da240af.js"></script>
+<script src="/main.83d94401.js"></script>
+<script src="/1.c22455e3.js"></script>
+<script src="/2.966c6dff.js"></script>
+<script src="/3.1fe90142.js"></script>
+<script src="/01a85c17.5023d504.js"></script>
+<script src="/1be78505.bd3f6238.js"></script>
+<script src="/6875c492.aca42274.js"></script>
+<script src="/a6aa9e1f.2d43bc4a.js"></script>
+<script src="/ccc49370.fb243b29.js"></script>
+<script src="/135.b4d0c57a.js"></script>
 <script src="/45b7c9ef.3f9e893b.js"></script>
-<script src="/775d7f13.a030af75.js"></script>
+<script src="/775d7f13.02fac436.js"></script>
 <script src="/4fbdb8ff.269df24b.js"></script>
 </body>
 </html>
