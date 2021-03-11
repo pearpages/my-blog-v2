@@ -58,6 +58,10 @@ const Git = [
   "git/resources"
 ];
 
+const GithubProjects = [
+  "github-projects/projects"
+]
+
 const Docker = [
   {
     href: "/introduction-to-docker",
@@ -353,6 +357,7 @@ module.exports = {
     "E2E Testing": E2Etesting,
     "Functional JS": Functional_JS,
     Git,
+    "Github Projects": GithubProjects,
     "In browser IDE": inBrowser_IDE,
     Javascript,
     "Learning Sites": ["learning-sites/resources"],
