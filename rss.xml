@@ -4,9 +4,16 @@
         <title>pages.ninja Blog</title>
         <link>https://pages.ninja/</link>
         <description>pages.ninja Blog</description>
-        <lastBuildDate>Wed, 03 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Object Oriented Design]]></title>
+            <link>https://pages.ninja/object-oriented-design</link>
+            <guid>object-oriented-design</guid>
+            <pubDate>Thu, 11 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Symptoms ob Bad Design]]></description>
+        </item>
         <item>
             <title><![CDATA[CSS Books]]></title>
             <link>https://pages.ninja/css-books</link>
