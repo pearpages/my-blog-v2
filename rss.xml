@@ -15,6 +15,13 @@
             <description><![CDATA[Symptoms ob Bad Design]]></description>
         </item>
         <item>
+            <title><![CDATA[React Patterns]]></title>
+            <link>https://pages.ninja/react-patterns</link>
+            <guid>react-patterns</guid>
+            <pubDate>Thu, 11 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Elements]]></description>
+        </item>
+        <item>
             <title><![CDATA[CSS Books]]></title>
             <link>https://pages.ninja/css-books</link>
             <guid>css-books</guid>
