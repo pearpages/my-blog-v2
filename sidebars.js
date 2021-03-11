@@ -41,6 +41,11 @@ const Functional_JS = [
     label: "Reduce usage examples",
     type: "link",
   },
+  {
+    href: "https://github.com/ReactiveX/rxjs",
+    label: "rxjs",
+    type: "link",
+  },
   "functional-js/resources",
 ];
 
@@ -292,6 +297,11 @@ const VisualResources = [
   {
     href: "/favicons",
     label: "Favicons",
+    type: "link",
+  },
+  {
+    href: "https://www.freepik.com/",
+    label: "freepik",
     type: "link",
   },
 ]
