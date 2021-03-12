@@ -225,18 +225,18 @@
             <description><![CDATA[Resources]]></description>
         </item>
         <item>
-            <title><![CDATA[Change mac folder icons]]></title>
-            <link>https://pages.ninja/change-mac-folder-icons</link>
-            <guid>change-mac-folder-icons</guid>
-            <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Basically, copy the contents of an image and paste it in the icon of the folder description (get info)]]></description>
-        </item>
-        <item>
             <title><![CDATA[Conditional validation with Yup and Formik]]></title>
             <link>https://pages.ninja/conditional-validation-with-yup-and-formik</link>
             <guid>conditional-validation-with-yup-and-formik</guid>
             <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[https://stackoverflow.com/questions/54919228/conditional-validation-with-yup-and-formik]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Change mac folder icons]]></title>
+            <link>https://pages.ninja/change-mac-folder-icons</link>
+            <guid>change-mac-folder-icons</guid>
+            <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Basically, copy the contents of an image and paste it in the icon of the folder description (get info)]]></description>
         </item>
         <item>
             <title><![CDATA[Deep equality in js Objects]]></title>
