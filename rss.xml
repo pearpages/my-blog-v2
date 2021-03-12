@@ -4,9 +4,16 @@
         <title>pages.ninja Blog</title>
         <link>https://pages.ninja/</link>
         <description>pages.ninja Blog</description>
-        <lastBuildDate>Thu, 11 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Using environment variables in react]]></title>
+            <link>https://pages.ninja/using-environment-variables-in-react</link>
+            <guid>using-environment-variables-in-react</guid>
+            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[When working with React, environment variables are variables that are available through a global process.env Object. That global Object is provided by your environment through NodeJs. And because we don’t have NodeJs in the browser, we’re going to need webpack.]]></description>
+        </item>
         <item>
             <title><![CDATA[Object Oriented Design]]></title>
             <link>https://pages.ninja/object-oriented-design</link>
