@@ -8,6 +8,13 @@
     <subtitle>pages.ninja Blog</subtitle>
     <icon>https://pages.ninja/img/favicon.png</icon>
     <entry>
+        <title type="html"><![CDATA[NPM tricks]]></title>
+        <id>npm-tricks</id>
+        <link href="https://pages.ninja/npm-tricks"/>
+        <updated>2021-03-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[npm logo]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Using environment variables in react]]></title>
         <id>using-environment-variables-in-react</id>
         <link href="https://pages.ninja/using-environment-variables-in-react"/>

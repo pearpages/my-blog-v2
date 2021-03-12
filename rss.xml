@@ -8,6 +8,13 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[NPM tricks]]></title>
+            <link>https://pages.ninja/npm-tricks</link>
+            <guid>npm-tricks</guid>
+            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[npm logo]]></description>
+        </item>
+        <item>
             <title><![CDATA[Using environment variables in react]]></title>
             <link>https://pages.ninja/using-environment-variables-in-react</link>
             <guid>using-environment-variables-in-react</guid>
