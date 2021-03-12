@@ -201,6 +201,8 @@ const MemesJokes = [
   },
 ]
 
+const Npm = ["npm/resources"]
+
 const Origami = [
   {
     href: "https://www.union.ic.ac.uk/scc/icsf/history/picocon/picocon22/xwing/",
@@ -220,6 +222,7 @@ const React = [
     label: "Testing a React component when unmounting with testing-library",
     type: "link",
   },
+  "react/resources"
 ]
 
 const Regex = [
@@ -371,6 +374,7 @@ module.exports = {
     Maths,
     "Memes/Jokes": MemesJokes,
     Node: ["node/resources"],
+    Npm,
     Origami,
     React,
     Regex,
