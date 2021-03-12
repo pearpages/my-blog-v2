@@ -8,6 +8,13 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Centralized PropTypes]]></title>
+            <link>https://pages.ninja/centralized-prop-types</link>
+            <guid>centralized-prop-types</guid>
+            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[PropTypes provide type warnings at runtime]]></description>
+        </item>
+        <item>
             <title><![CDATA[NPM tricks]]></title>
             <link>https://pages.ninja/npm-tricks</link>
             <guid>npm-tricks</guid>

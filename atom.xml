@@ -8,6 +8,13 @@
     <subtitle>pages.ninja Blog</subtitle>
     <icon>https://pages.ninja/img/favicon.png</icon>
     <entry>
+        <title type="html"><![CDATA[Centralized PropTypes]]></title>
+        <id>centralized-prop-types</id>
+        <link href="https://pages.ninja/centralized-prop-types"/>
+        <updated>2021-03-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PropTypes provide type warnings at runtime]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NPM tricks]]></title>
         <id>npm-tricks</id>
         <link href="https://pages.ninja/npm-tricks"/>
