@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pages.ninja/</id>
     <title>pages.ninja Blog</title>
-    <updated>2021-03-12T00:00:00.000Z</updated>
+    <updated>2021-04-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pages.ninja/"/>
     <subtitle>pages.ninja Blog</subtitle>
     <icon>https://pages.ninja/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Using environment variables in react]]></title>
+        <id>using-environment-variables-in-react</id>
+        <link href="https://pages.ninja/using-environment-variables-in-react"/>
+        <updated>2021-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When working with React, environment variables are variables that are available through a global process.env Object. That global Object is provided by your environment through NodeJs. And because we don’t have NodeJs in the browser, we’re going to need webpack.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Centralized PropTypes]]></title>
         <id>centralized-prop-types</id>
@@ -225,18 +232,18 @@
         <summary type="html"><![CDATA[Resources]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conditional validation with Yup and Formik]]></title>
-        <id>conditional-validation-with-yup-and-formik</id>
-        <link href="https://pages.ninja/conditional-validation-with-yup-and-formik"/>
-        <updated>2020-12-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[https://stackoverflow.com/questions/54919228/conditional-validation-with-yup-and-formik]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Change mac folder icons]]></title>
         <id>change-mac-folder-icons</id>
         <link href="https://pages.ninja/change-mac-folder-icons"/>
         <updated>2020-12-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Basically, copy the contents of an image and paste it in the icon of the folder description (get info)]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conditional validation with Yup and Formik]]></title>
+        <id>conditional-validation-with-yup-and-formik</id>
+        <link href="https://pages.ninja/conditional-validation-with-yup-and-formik"/>
+        <updated>2020-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[https://stackoverflow.com/questions/54919228/conditional-validation-with-yup-and-formik]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deep equality in js Objects]]></title>

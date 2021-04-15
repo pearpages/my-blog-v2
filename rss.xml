@@ -4,9 +4,16 @@
         <title>pages.ninja Blog</title>
         <link>https://pages.ninja/</link>
         <description>pages.ninja Blog</description>
-        <lastBuildDate>Fri, 12 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Using environment variables in react]]></title>
+            <link>https://pages.ninja/using-environment-variables-in-react</link>
+            <guid>using-environment-variables-in-react</guid>
+            <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[When working with React, environment variables are variables that are available through a global process.env Object. That global Object is provided by your environment through NodeJs. And because we don’t have NodeJs in the browser, we’re going to need webpack.]]></description>
+        </item>
         <item>
             <title><![CDATA[Centralized PropTypes]]></title>
             <link>https://pages.ninja/centralized-prop-types</link>
@@ -225,18 +232,18 @@
             <description><![CDATA[Resources]]></description>
         </item>
         <item>
-            <title><![CDATA[Conditional validation with Yup and Formik]]></title>
-            <link>https://pages.ninja/conditional-validation-with-yup-and-formik</link>
-            <guid>conditional-validation-with-yup-and-formik</guid>
-            <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[https://stackoverflow.com/questions/54919228/conditional-validation-with-yup-and-formik]]></description>
-        </item>
-        <item>
             <title><![CDATA[Change mac folder icons]]></title>
             <link>https://pages.ninja/change-mac-folder-icons</link>
             <guid>change-mac-folder-icons</guid>
             <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Basically, copy the contents of an image and paste it in the icon of the folder description (get info)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Conditional validation with Yup and Formik]]></title>
+            <link>https://pages.ninja/conditional-validation-with-yup-and-formik</link>
+            <guid>conditional-validation-with-yup-and-formik</guid>
+            <pubDate>Sat, 05 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[https://stackoverflow.com/questions/54919228/conditional-validation-with-yup-and-formik]]></description>
         </item>
         <item>
             <title><![CDATA[Deep equality in js Objects]]></title>
