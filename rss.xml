@@ -8,11 +8,11 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Using environment variables in react]]></title>
-            <link>https://pages.ninja/using-environment-variables-in-react</link>
-            <guid>using-environment-variables-in-react</guid>
+            <title><![CDATA[Running Promises]]></title>
+            <link>https://pages.ninja/running-promises</link>
+            <guid>running-promises</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[When working with React, environment variables are variables that are available through a global process.env Object. That global Object is provided by your environment through NodeJs. And because we don’t have NodeJs in the browser, we’re going to need webpack.]]></description>
+            <description><![CDATA[Promises start running immediately after creation !!!]]></description>
         </item>
         <item>
             <title><![CDATA[Centralized PropTypes]]></title>
