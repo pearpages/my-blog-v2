@@ -12,7 +12,7 @@
         <id>running-promises</id>
         <link href="https://pages.ninja/running-promises"/>
         <updated>2021-04-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Promises start running immediately after creation !!!]]></summary>
+        <summary type="html"><![CDATA[Experiment on running promises either one after the other or in parallel(concurrently).]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Centralized PropTypes]]></title>

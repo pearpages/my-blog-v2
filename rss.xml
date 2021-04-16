@@ -12,7 +12,7 @@
             <link>https://pages.ninja/running-promises</link>
             <guid>running-promises</guid>
             <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Promises start running immediately after creation !!!]]></description>
+            <description><![CDATA[Experiment on running promises either one after the other or in parallel(concurrently).]]></description>
         </item>
         <item>
             <title><![CDATA[Centralized PropTypes]]></title>
