@@ -10,7 +10,7 @@ tags: [js, promises]
 
 Experiment on running promises either one after the other or in parallel(concurrently).
 
-::: tip
+:::info
 We say parallel, but we mean concurrently because node/js does not have threads.
 :::
 
@@ -26,7 +26,7 @@ What's going wrong? Why sequentially is not taking way more than the other two? 
 
 The answer:
 
-::: warning
+:::warning
 _Promises start running immediately after creation._
 :::
 
@@ -105,7 +105,7 @@ function sequentially(arrayOfPromiseOrAsyncFn) {
 
 ### In parallel
 
-::: warning
+:::warning
 There is also a possible implementation with `for of`.
 :::
 
