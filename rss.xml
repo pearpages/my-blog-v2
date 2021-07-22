@@ -4,9 +4,16 @@
         <title>pages.ninja Blog</title>
         <link>https://pages.ninja/</link>
         <description>pages.ninja Blog</description>
-        <lastBuildDate>Thu, 15 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[React.memo()]]></title>
+            <link>https://pages.ninja/react-memo</link>
+            <guid>react-memo</guid>
+            <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[When deciding to update DOM, React first renders your component, then compares the result with the previous render. If the render results are different, React updates the DOM.]]></description>
+        </item>
         <item>
             <title><![CDATA[Running Promises]]></title>
             <link>https://pages.ninja/running-promises</link>
