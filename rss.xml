@@ -4,9 +4,16 @@
         <title>pages.ninja Blog</title>
         <link>https://pages.ninja/</link>
         <description>pages.ninja Blog</description>
-        <lastBuildDate>Thu, 22 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[About Javascript]]></title>
+            <link>https://pages.ninja/about javascript</link>
+            <guid>about javascript</guid>
+            <pubDate>Sun, 26 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[JavaScript (/ˈdʒɑːvəˌskrɪpt/), often abbreviated as JS, is a programming language that conforms to the ECMAScript specification.]]></description>
+        </item>
         <item>
             <title><![CDATA[React.memo()]]></title>
             <link>https://pages.ninja/react-memo</link>

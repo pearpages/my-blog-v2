@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[113],{180:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ecmascript","name":"ecmascript","count":1,"permalink":"/tags/ecmascript"}')}}]);
