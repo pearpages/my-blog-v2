@@ -20,7 +20,18 @@ JavaScript is:
 - **[prototype-based](#prototype-based-programming)** **[object-orientation](#object-oriented-programming)**
 - **[first-class functions](#first-class-function)**
 
+## Engine
+
 Most web browsers have a dedicated **JavaScript engine** to execute the code on the user's device.
+
+- **V8 from Google** is the most used JavaScript engine. Google Chrome and the many other Chromium-based browsers use it, as do applications built with CEF, Electron, or any other framework that embeds Chromium. Other uses include the Node.js and Deno runtime systems.
+- **SpiderMonkey** is developed by **Mozilla** for use in Firefox and its forks. The GNOME Shell uses it for extension support.
+- **JavaScriptCore** is **Apple**'s engine for its Safari browser. Other WebKit-based browsers also use it. KJS from KDE was the starting point for its development.
+- **Chakra** is the engine of the **Internet Explorer** browser. It was also forked by Microsoft for the original Edge browser, but **Edge** was later rebuilt as a Chromium-based browser and thus **now uses V8**.
+
+> [Read more](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+## APIs
 
 It has application programming interfaces (APIs) for working with:
 
