@@ -4,9 +4,23 @@
         <title>pages.ninja Blog</title>
         <link>https://pages.ninja/</link>
         <description>pages.ninja Blog</description>
-        <lastBuildDate>Sun, 26 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3 Typescript tricks]]></title>
+            <link>https://pages.ninja/3 typescript tricks</link>
+            <guid>3 typescript tricks</guid>
+            <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. Readonly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dependency Injection]]></title>
+            <link>https://pages.ninja/dependency injection</link>
+            <guid>dependency injection</guid>
+            <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[DI is a pattern where, instead of creating or requiring dependencies directly inside a module, we pass them as parameters or reference.]]></description>
+        </item>
         <item>
             <title><![CDATA[About Javascript]]></title>
             <link>https://pages.ninja/about javascript</link>
