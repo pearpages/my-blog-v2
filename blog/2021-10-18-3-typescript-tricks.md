@@ -8,7 +8,7 @@ author_image_url: https://avatars2.githubusercontent.com/u/3802915?s=400&v=4
 tags: [typescript]
 ---
 
-1. Readonly<T>
+1. `Readonly<T>`
 2. Any vs Unknown
 3. Records
 
