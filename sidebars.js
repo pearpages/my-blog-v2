@@ -373,6 +373,7 @@ module.exports = {
     Markdown,
     Maths,
     "Memes/Jokes": MemesJokes,
+    "My Books": ["books/books"],
     Node: ["node/resources"],
     Npm,
     Origami,
