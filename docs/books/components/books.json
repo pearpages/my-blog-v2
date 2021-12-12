@@ -1,0 +1,308 @@
+[
+  {
+    "src": "universalPrinciplesOfDesign",
+    "title": "Universal Principles of Design",
+    "year": "2003",
+    "tags": ["design"],
+    "authors": [
+      "William Lidwell, Kristina Holden, Jill Butler"
+    ],
+    "summary": ""
+  },
+  {
+    "src": "dontMakeMeThink",
+    "title": "Don't make me think",
+    "year": "",
+    "tags": ["design"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "hazFacilLoImposible",
+    "title": "Haz fácil lo imposible",
+    "year": "",
+    "tags": ["design"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "eloquentJavascript",
+    "title": "Eloquent Javascript",
+    "year": "",
+    "tags": ["javascript"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "lasLeyesDeLaSimplicidad",
+    "title": "Las leyes de la simplicidad",
+    "year": "",
+    "tags": ["design"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "scrumMastery",
+    "title": "Scrum Mastery",
+    "year": "",
+    "tags": ["agile"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "designPatternsInTypescript",
+    "title": "Design Patterns in Typescript",
+    "year": "",
+    "tags": ["patterns", "typescript"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "makeEverythingMatter",
+    "title": "Making every meeting matter",
+    "year": "",
+    "tags": ["agile"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "refactoring",
+    "title": "Refactoring",
+    "year": "",
+    "tags": ["patterns"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "extremeProgramming",
+    "title": "Extreme Programming Explained",
+    "year": "",
+    "tags": ["agile"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "agileSoftwareDevelopment",
+    "title": "Agile Software Development",
+    "year": "",
+    "tags": ["patterns", "agile"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "headFristDesignPatterns",
+    "title": "Head First Design Patterns",
+    "year": "",
+    "tags": ["patterns", "java"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "designPatterns",
+    "title": "Design Patterns",
+    "year": "",
+    "tags": ["patterns"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "accelerate",
+    "title": "Accelerate",
+    "year": "",
+    "tags": ["agile"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "javascriptPatterns",
+    "title": "Javascript Patterns",
+    "year": "",
+    "tags": ["patterns", "javascript"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "learningJavascriptDesignPatterns",
+    "title": "Learning Javascript Design Patterns",
+    "year": "",
+    "tags": ["patterns", "javascript"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "nodejsDesignPatterns",
+    "title": "Node.js Design Patterns",
+    "year": "",
+    "tags": ["patterns", "node", "javascript"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "javascriptDataStructuresAndAlgorithms",
+    "title": "JavaScript Data Structures and Algorithms",
+    "year": "",
+    "tags": ["javascript", "adts", "algorithms"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "algoritmos",
+    "title": "Algoritmos",
+    "year": "",
+    "tags": ["algorithms"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "theDesignOfWebapis",
+    "title": "The Design of Web APIs",
+    "year": "",
+    "tags": ["apis", "patterns"],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "designingWebApis",
+    "title": "Designing Web APIs",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "masteringJavascriptFunctionalProgramming",
+    "title": "Mastering Javascript Functional Programming",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "composingSoftware",
+    "title": "Composing Software",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "functionalProgrammingInJs",
+    "title": "Functional Programming in Javascript",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "highPerformanceBrowserNetworking",
+    "title": "High Performance Browser Networking",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "theJoyOfJavascript",
+    "title": "The Joy of Javascript",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "howJavascriptWorks",
+    "title": "How Javascript works",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "effectiveJavascript",
+    "title": "Effective Javascript",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "understandingEcmascript6",
+    "title": "Understanding Ecmascript 6",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "asyncAndPerformance",
+    "title": "You don't know Javascript: Async & Performance",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "scopeAndClosures",
+    "title": "You don't know Javascript: Scope & Closures",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "thisAndObjectPrototypes",
+    "title": "You don't know Javascript: This & object prototypes",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "programmingJavascriptApplications",
+    "title": "Programming Javascript Applications",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "javascriptTheGoodParts",
+    "title": "Javascript the Good Parts",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "cleanCode",
+    "title": "Clean Code",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "workingEffectevlyWithLegacyCode",
+    "title": "Working Effectively with Legacy Code",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "softSkills",
+    "title": "Soft Skills",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  },
+  {
+    "src": "crackingTheCodeInterview",
+    "title": "Cracking the Code Interview",
+    "year": "",
+    "tags": [],
+    "authors": [],
+    "summary": ""
+  }
+]
