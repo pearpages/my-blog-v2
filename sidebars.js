@@ -164,6 +164,14 @@ const inBrowser_IDE = [
   },
 ]
 
+const InfluentialBooks = [
+  {
+    href: "https://www.goodreads.com/book/similar/67973-patterns-of-enterprise-application-architecture",
+    label: "Influential books",
+    type: "link",
+  },
+]
+
 const Mac = [
   {
     href: "/change-mac-folder-icons",
@@ -367,6 +375,7 @@ module.exports = {
     Git,
     "Github Projects": GithubProjects,
     "In browser IDE": inBrowser_IDE,
+    "Influential Books": InfluentialBooks,
     Javascript,
     "Learning Sites": ["learning-sites/resources"],
     Mac,
