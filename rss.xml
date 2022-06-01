@@ -15,6 +15,13 @@
             <description><![CDATA[After some years working with software I have got to the conclusion that there are three important pillars in my daily work:]]></description>
         </item>
         <item>
+            <title><![CDATA[Writing snippets in vsc]]></title>
+            <link>https://pages.ninja/writing-snippets-in-vsc</link>
+            <guid>writing-snippets-in-vsc</guid>
+            <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Creating or Editing the snippets]]></description>
+        </item>
+        <item>
             <title><![CDATA[Shuffling an array]]></title>
             <link>https://pages.ninja/shuffling-an-array</link>
             <guid>shuffling-an-array</guid>
