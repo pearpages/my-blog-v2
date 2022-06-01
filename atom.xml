@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pages.ninja/</id>
     <title>pages.ninja Blog</title>
-    <updated>2022-05-25T00:00:00.000Z</updated>
+    <updated>2022-06-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pages.ninja/"/>
     <subtitle>pages.ninja Blog</subtitle>
     <icon>https://pages.ninja/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The three pillars of knowledge]]></title>
+        <id>the-three-pillars-of-knowledge</id>
+        <link href="https://pages.ninja/the-three-pillars-of-knowledge"/>
+        <updated>2022-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After some years working with software I have got to the conclusion that there are three important pillars in my daily work:]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shuffling an array]]></title>
         <id>shuffling-an-array</id>
