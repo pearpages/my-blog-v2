@@ -4,9 +4,16 @@
         <title>pages.ninja Blog</title>
         <link>https://pages.ninja/</link>
         <description>pages.ninja Blog</description>
-        <lastBuildDate>Wed, 01 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Specify the required node js version in package.json]]></title>
+            <link>https://pages.ninja/specify-the-required-node-js-version-in-package-json</link>
+            <guid>specify-the-required-node-js-version-in-package-json</guid>
+            <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[- Original Resource]]></description>
+        </item>
         <item>
             <title><![CDATA[The three pillars of knowledge]]></title>
             <link>https://pages.ninja/the-three-pillars-of-knowledge</link>
@@ -232,18 +239,18 @@
             <description><![CDATA[Resources]]></description>
         </item>
         <item>
-            <title><![CDATA[Javascript influential books]]></title>
-            <link>https://pages.ninja/js-influential-books</link>
-            <guid>js-influential-books</guid>
-            <pubDate>Sun, 13 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Resources]]></description>
-        </item>
-        <item>
             <title><![CDATA[Resizing markdown images]]></title>
             <link>https://pages.ninja/resizing-markdown-images</link>
             <guid>resizing-markdown-images</guid>
             <pubDate>Sun, 13 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[After many attempts I have come to the conclusion that the best way is doing through css. And the cleanest way is to use the `alt` attribute.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Javascript influential books]]></title>
+            <link>https://pages.ninja/js-influential-books</link>
+            <guid>js-influential-books</guid>
+            <pubDate>Sun, 13 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Resources]]></description>
         </item>
         <item>
             <title><![CDATA[Flair Espresso Signature]]></title>

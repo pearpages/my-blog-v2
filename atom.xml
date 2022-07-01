@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pages.ninja/</id>
     <title>pages.ninja Blog</title>
-    <updated>2022-06-01T00:00:00.000Z</updated>
+    <updated>2022-07-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pages.ninja/"/>
     <subtitle>pages.ninja Blog</subtitle>
     <icon>https://pages.ninja/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Specify the required node js version in package.json]]></title>
+        <id>specify-the-required-node-js-version-in-package-json</id>
+        <link href="https://pages.ninja/specify-the-required-node-js-version-in-package-json"/>
+        <updated>2022-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- Original Resource]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The three pillars of knowledge]]></title>
         <id>the-three-pillars-of-knowledge</id>
@@ -232,18 +239,18 @@
         <summary type="html"><![CDATA[Resources]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Javascript influential books]]></title>
-        <id>js-influential-books</id>
-        <link href="https://pages.ninja/js-influential-books"/>
-        <updated>2020-12-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Resources]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Resizing markdown images]]></title>
         <id>resizing-markdown-images</id>
         <link href="https://pages.ninja/resizing-markdown-images"/>
         <updated>2020-12-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[After many attempts I have come to the conclusion that the best way is doing through css. And the cleanest way is to use the `alt` attribute.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javascript influential books]]></title>
+        <id>js-influential-books</id>
+        <link href="https://pages.ninja/js-influential-books"/>
+        <updated>2020-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Resources]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flair Espresso Signature]]></title>
